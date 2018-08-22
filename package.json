@@ -1,0 +1,17 @@
+{
+  "name": "bot-radio",
+  "version": "1.0.0",
+  "description": "Mon bot!",
+  "main": "bot-radio.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "ffmpeg": "^0.0.4",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tard0sTV & Ilian",
+  "license": "ISC"
+}
